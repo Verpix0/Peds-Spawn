@@ -12,7 +12,3 @@ Citizen.CreateThread(function()
         TaskStartScenarioInPlace(ped, v.scenario, 0, true)
     end
 end)
-
-
-
-
